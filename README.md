@@ -1,1 +1,1 @@
-# Hockey
+# Hockey statistic service
